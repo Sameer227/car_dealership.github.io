@@ -4,7 +4,15 @@
   z-index: 0;
 }
 
-.footer-cols {
+// .footer-cols {
+//   overflow: hidden;
+//   margin-bottom: 0;
+// }
+
+//Updated .footer-cols
+.footer-cols{
+  justify-content: space-around;
+  display: flex;
   overflow: hidden;
   margin-bottom: 0;
 }
