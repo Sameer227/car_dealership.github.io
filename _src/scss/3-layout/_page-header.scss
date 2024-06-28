@@ -185,7 +185,7 @@ $padding-for-hero-section: $link-height;
 
     .logo-img {
       display: block;
-      max-width: 10rem;
+      max-width: 3rem;
       max-height: calc(#{$link-height} - 10px);
       @include ma-transition;
 
